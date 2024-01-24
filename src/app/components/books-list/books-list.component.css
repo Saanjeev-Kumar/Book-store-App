@@ -1,0 +1,29 @@
+.booksBox{
+  width: 100%;
+  margin: 30px;
+  display: flex;
+  position: relative;
+  overflow: auto;
+  flex-wrap: wrap;
+  background-color: rgb(250, 40, 40);
+
+}
+.card{
+  margin: 25px;
+  width: 280px;
+  height: 500px;
+  background-color: rgb(250, 40, 40);
+
+}
+.card-body{
+  height: 300px;
+  background-color: rgb(250, 40, 40);
+
+}
+.card-footer{
+  padding-top: 10px;
+  height: 180px;
+  text-align: center;
+  background-color: rgb(250, 40, 40);
+
+}

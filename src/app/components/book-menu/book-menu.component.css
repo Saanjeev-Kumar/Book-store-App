@@ -1,0 +1,45 @@
+.mat-elevation-z8 {
+  width: 80%;
+  margin: 30px;
+}
+table {
+  width: 100%;
+  /* background-color: #f8f9fa; */
+  background-color: rgb(250, 40, 40);
+
+}
+.search {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 3%;
+  background-color: rgb(250, 40, 40);
+
+}
+mat-form-field{
+width: 500px;
+background-color: rgb(250, 40, 40);
+
+}
+.asd{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(250, 40, 40);
+
+}
+
+button{
+  margin-right: 20px;
+  margin-top: 20px;
+  background-color: rgb(250, 40, 40);
+
+}
+
+.buttons{
+  text-align: center;
+  background-color: rgb(250, 40, 40);
+
+}
